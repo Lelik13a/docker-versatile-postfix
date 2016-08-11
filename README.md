@@ -1,5 +1,7 @@
 # Versatile Postfix Mail Server (marvambass/versatile-postfix)
-_maintained by MarvAmBass_
+Forked from https://github.com/MarvAmBass/docker-versatile-postfix
+
+_maintained by Lelik13a_
 
 [FAQ - All you need to know about the marvambass Containers](https://marvin.im/docker-faq-all-you-need-to-know-about-the-marvambass-containers/)
 
